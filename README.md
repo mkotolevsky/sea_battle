@@ -1,4 +1,4 @@
 # sea_battle
-Sea battle. Implementation based on the book "Learning JavaScript programming"
+Проект написан при изучение книги "Изучаем программирование на JavaScript".
 
 [Open project](https://mkotolevsky.github.io/sea_battle/)
